@@ -1,4 +1,4 @@
-### 1. React 파일 생성
+## 1. React 파일 생성
 
 1. 터미널을 연다.
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 2. Git 설정
+## 2. Git 설정
 
 1. 이제 Git에 `deploy-test`폴더를 올리면 되지만, 이 폴더는 아직 Git과 연결이 되어있지 않은 상태이다. `remote -v` 명령을 통해 Git과 연결된 repository가 있는지 확인할 수 있다. 현재 `deploy-test`는 Git의 어느 repository와도 연결되어있지 않으므로 명령을 입력해도 터미널에 아무것도 출력되지 않는다.
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 3. Netlify로 배포하기
+## 3. Netlify로 배포하기
 
 1. 먼저 Netlify에 가입을 해준다. Netlify에 가입을 하고나면 다음과 같은 화면이 보일 것이다. 여기서 `Import from Git` 버튼을 클릭한다.
 
