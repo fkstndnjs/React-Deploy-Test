@@ -3,6 +3,7 @@
 1-1. 터미널을 연다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/41a04fca-fe5d-4a2a-b06e-530d404e890d/image.png)
+   </br>
 
 1-2. `'cd'`명령으로 작업할 폴더로 이동한다. 필자는 Documents 폴더 안에서 작업할 것이기 때문에 `'cd Documents'` 명령으로 Documents 폴더로 이동하였다.
 
