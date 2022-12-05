@@ -28,9 +28,6 @@
 #### 1-4. `'cd deploy-test'` 명령으로 방금 생성한 폴더로 이동한다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/cda8619d-1088-4fbe-8148-ccf97194dc15/image.png)
-   <br/>
-   <br/>
-   <br/>
 
 ---
 
@@ -69,9 +66,6 @@
 ![](https://velog.velcdn.com/images/fkstndnjs/post/806b0e6c-aaee-43de-9cb9-accd46bdb398/image.png)
 
 ![](https://velog.velcdn.com/images/fkstndnjs/post/00defd51-ad2a-4649-b596-aaeb4c7cd7d2/image.png)
-<br/>
-   <br/>
-   <br/>
 
 ---
 
