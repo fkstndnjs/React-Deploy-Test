@@ -9,14 +9,16 @@
    <br/>
 
 
-#### 1-2. `'cd'`명령으로 작업할 폴더로 이동한다. 필자는 Documents 폴더 안에서 작업할 것이기 때문에 `'cd Documents'` 명령으로 Documents 폴더로 이동하였다.
+#### 1-2
+- `'cd'`명령으로 작업할 폴더로 이동한다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/5d5d2cbd-3a38-4d15-b866-ae3e117f9992/image.png)
    <br/>
    <br/>
    <br/>
    
-#### 1-3. `'yarn create react-app {폴더명}'` 명령으로 React 기본 템플릿이 담겨있는 폴더를 생성해준다. 필자는 폴더명을 `deploy-test`로 하였다.
+#### 1-3
+-`'yarn create react-app {폴더명}'` 명령으로 React 기본 템플릿이 담겨있는 폴더를 생성해준다. 필자는 폴더명을 `deploy-test`로 하였다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/d5fc2999-6742-4bcc-9bb6-ace55561131c/image.png)
    
