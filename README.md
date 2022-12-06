@@ -1,6 +1,5 @@
 # 1. React 파일 생성
 
-#### 1-1
 - 터미널을 연다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/41a04fca-fe5d-4a2a-b06e-530d404e890d/image.png)
@@ -9,7 +8,6 @@
    <br/>
 
 
-#### 1-2
 - `'cd'`명령으로 작업할 폴더로 이동한다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/5d5d2cbd-3a38-4d15-b866-ae3e117f9992/image.png)
@@ -17,8 +15,7 @@
    <br/>
    <br/>
    
-#### 1-3
--`'yarn create react-app {폴더명}'` 명령으로 React 기본 템플릿이 담겨있는 폴더를 생성해준다. 필자는 폴더명을 `deploy-test`로 하였다.
+- `'yarn create react-app {폴더명}'` 명령으로 React 기본 템플릿이 담겨있는 폴더를 생성해준다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/d5fc2999-6742-4bcc-9bb6-ace55561131c/image.png)
    
