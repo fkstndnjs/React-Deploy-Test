@@ -67,7 +67,7 @@
 
 - Git과 연결이 되었으니 이제 `deploy-test` 폴더를 Git에 올릴 차례인데, 로컬 브랜치 이름이 master로 되어있어서 `'git branch -M main'`으로 Git의 브랜치 이름과 맞춰주었다.
 - 자신의 브랜치가 무슨 이름으로 되어있는지 궁금하다면 `'git branch'` 명령으로 확인해보고 master로 되어있으면 `'git branch -M main'` 명령으로 바꿔주자.
-- 그리고 `'git push orign main'` 명령으로 Git에 폴더를 올리면 되지만 필자는 위에서 `React-Deploy-Test`를 생성할 때 README.md 파일을 같이 생성하는 옵션을 선택하는 바람에 `deploy-test`와 `React-Deploy-Test`의 커밋 history가 달라서 `'--force'`옵션을 통해 강제 푸시를 해주었다.
+- 그리고 `'git push orign main'` 명령으로 Git에 폴더를 올리면 되지만 필자는 위에서 `React-Deploy-Test`를 생성할 때 README.md 파일을 같이 생성하는 옵션을 선택하는 바람에 로컬과 Git의 커밋 history가 달라서 `'--force'`옵션을 통해 강제 푸시를 해주었다.
 - README.md 옵션을 선택하지 않았다면 `'--force'` 옵션을 주지 않아도 업로드가 잘 될 것이다.
 - 그럼 다음과 같이 폴더가 Git으로 업로드 된다.
 
