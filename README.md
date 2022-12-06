@@ -87,7 +87,7 @@
    <br/>
    <br/>
 
-- 그럼 연결할 수 있는 4개의 Git기반 플랫폼이 나오는데, 우리는 GitHub을 사용하므로 GitHub을 클릭한다.
+- 그럼 연결할 수 있는 4개의 버전 관리 플랫폼이 나오는데, 우리는 GitHub을 사용하므로 GitHub을 클릭한다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/f580de15-c623-45cb-b0c2-01ce1217dbb3/image.png)
    <br/>
