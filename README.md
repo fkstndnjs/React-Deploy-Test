@@ -1,6 +1,7 @@
 # 1. React 파일 생성
 
-#### 1-1. 터미널을 연다.
+#### 1-1
+- 터미널을 연다.
 
    ![](https://velog.velcdn.com/images/fkstndnjs/post/41a04fca-fe5d-4a2a-b06e-530d404e890d/image.png)
    <br/>
